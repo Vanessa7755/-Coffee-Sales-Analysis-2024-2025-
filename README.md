@@ -5,7 +5,7 @@ This dataset was acquired from Kaggle and was cleaned and well tabulated using E
 
 
 ## Project Overview
-A real-time project based on Kaggle data, focusing on sales performance, trends, and growth drivers to support business strategies.
+A real-time project based on Kaggle data which showcases an interactive excel dashboard  focusing on sales performance, providing insights into customer trends, product popularity(top performing coffee type by sales and profitability and growth drivers to support business strategies. Tools used were Microsoft Excel, Power Query, Pivot Tables, Charts and Slicers
 
 ---
 
